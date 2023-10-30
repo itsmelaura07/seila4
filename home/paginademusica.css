@@ -1,0 +1,26 @@
+*margin{
+    padding: 0;
+    margin: 0;
+}
+
+#login{
+background-color: white;
+box-shadow:  15px 15px 10px gray;
+margin-left:900px;
+margin-top: 150px;
+height:500px;
+width: 30%;
+}
+h1{
+    color: palevioletred;
+    margin-left: 50%;
+}
+#bemvindo{
+    position: block;
+background-color: rgb(144, 204, 144);
+box-shadow:  15px 15px 10px gray;
+ margin-top: 600px;
+
+height:500px;
+width: 30%;
+}
